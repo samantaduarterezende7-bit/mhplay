@@ -1,5 +1,5 @@
 {
-  "version": "0.9.1",
+  "version": "0.9.2",
   "zip": "https://raw.githubusercontent.com/samantaduarterezende7-bit/mhplay/main/MHPlay.zip",
-  "notas": "Correção importante: o MH Play nunca mais mexe no tamanho da memória interna do Android."
+  "notas": "Logo na barra de tarefas corrigida; o MH Play nunca mais mexe no tamanho da memória interna do Android."
 }
