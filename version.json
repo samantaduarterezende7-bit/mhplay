@@ -1,5 +1,5 @@
 {
-  "version": "0.9.2",
+  "version": "0.10",
   "zip": "https://raw.githubusercontent.com/samantaduarterezende7-bit/mhplay/main/MHPlay.zip",
-  "notas": "Logo na barra de tarefas corrigida; o MH Play nunca mais mexe no tamanho da memória interna do Android."
+  "notas": "Suporte ao Android 13 (rode o INSTALAR_ANDROID13.bat) e escolha da versão do Android nas Configurações."
 }
